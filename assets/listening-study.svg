@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" role="img" aria-label="رسم توضيحي تعليمي">
+<defs>
+ <linearGradient id="page" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffdf3"/><stop offset="1" stop-color="#e6ead8"/></linearGradient>
+ <linearGradient id="cover" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#47795b"/><stop offset="1" stop-color="#244c39"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#efd78b"/><stop offset="1" stop-color="#c79e4b"/></linearGradient>
+ <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#bed3ad"/><stop offset="1" stop-color="#729873"/></linearGradient>
+ <filter id="soft"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<ellipse cx="180" cy="211" rx="119" ry="12" fill="#536e4c" opacity=".13" filter="url(#soft)"/>
+<g stroke="#527b58" stroke-width="3" stroke-linecap="round" fill="none"><path d="M62 191 Q55 135 75 86"/><path d="M62 157 Q25 155 29 121 Q57 123 62 157Z" fill="#8dae7d" stroke="none"/><path d="M66 132 Q91 113 104 88 Q71 84 66 132Z" fill="#70996e" stroke="none"/><path d="M70 104 Q38 83 47 56 Q74 70 70 104Z" fill="#aac496" stroke="none"/></g><g>
+ <path d="M113 101 Q108 53 160 48 Q212 53 207 101" fill="none" stroke="#315f47" stroke-width="13" stroke-linecap="round"/><rect x="102" y="90" width="27" height="52" rx="12" fill="#4e805d"/><rect x="192" y="90" width="27" height="52" rx="12" fill="#4e805d"/>
+ <g transform="translate(85 120)">
+ <path d="M-8 42 Q40 26 91 43 L91 81 Q39 62 -8 80Z" fill="#c5b88a"/>
+ <path d="M91 43 Q142 26 190 42 L190 80 Q143 62 91 81Z" fill="#d5c99e"/>
+ <path d="M-2 36 Q39 16 91 35 L91 74 Q42 58 -2 76Z" fill="url(#page)" stroke="#d9d8c6" stroke-width="2"/>
+ <path d="M91 35 Q143 16 184 36 L184 76 Q139 58 91 74Z" fill="#f9f6e9" stroke="#d9d8c6" stroke-width="2"/>
+ <path d="M91 35 L91 74" stroke="#b8ad83" stroke-width="3"/>
+ <g stroke="#c4c8b8" stroke-width="2" stroke-linecap="round"><path d="M12 44 L74 42"/><path d="M12 53 L70 50"/><path d="M12 62 L76 59"/><path d="M106 43 L166 42"/><path d="M106 52 L163 50"/><path d="M106 61 L158 59"/></g>
+ <path d="M-7 36 Q37 16 91 35 Q140 16 185 36" fill="none" stroke="#557a5d" stroke-width="5" stroke-linecap="round"/>
+ </g><g fill="none" stroke="#bc9c4c" stroke-width="4" stroke-linecap="round"><path d="M231 73q16 12 0 24"/><path d="M245 62q29 23 0 46"/><path d="M83 74q-16 12 0 24"/></g>
+ <circle cx="266" cy="51" r="5" fill="#c5a85b"/><path d="M53 46l4 9 9 4-9 4-4 9-4-9-9-4 9-4Z" fill="#dfc777"/>
+ </g></svg>

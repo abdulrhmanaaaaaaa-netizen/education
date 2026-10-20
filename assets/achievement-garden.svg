@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" role="img" aria-label="رسم توضيحي تعليمي">
+<defs>
+ <linearGradient id="page" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffdf3"/><stop offset="1" stop-color="#e6ead8"/></linearGradient>
+ <linearGradient id="cover" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#47795b"/><stop offset="1" stop-color="#244c39"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#efd78b"/><stop offset="1" stop-color="#c79e4b"/></linearGradient>
+ <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#bed3ad"/><stop offset="1" stop-color="#729873"/></linearGradient>
+ <filter id="soft"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<ellipse cx="180" cy="211" rx="119" ry="12" fill="#536e4c" opacity=".13" filter="url(#soft)"/>
+<g>
+ <path d="M108 143h144l-10 57H118Z" fill="#d5c69a"/><rect x="116" y="138" width="128" height="15" rx="5" fill="#46714f"/>
+ <path d="M147 55h66v44q0 35-33 48-33-13-33-48Z" fill="url(#gold)" stroke="#b58f40" stroke-width="3"/><path d="M147 68h-20q-8 38 25 40M213 68h20q8 38-25 40" fill="none" stroke="#c39b46" stroke-width="8" stroke-linecap="round"/><path d="M180 76l6 13 14 2-10 10 2 14-12-7-12 7 2-14-10-10 14-2Z" fill="#fff4c9"/>
+ <path d="M180 146v19M163 166h34" stroke="#b88f43" stroke-width="8" stroke-linecap="round"/>
+ <g fill="#69966a"><path d="M84 189 Q59 152 83 128 Q109 157 84 189Z"/><path d="M276 189 Q301 152 277 128 Q251 157 276 189Z"/><path d="M79 163 Q52 146 44 165 Q61 182 79 163Z"/><path d="M281 163 Q308 146 316 165 Q299 182 281 163Z"/></g>
+ <g fill="#d0b15e"><path d="M95 58l4 9 9 4-9 4-4 9-4-9-9-4 9-4Z"/><path d="M263 52l3 7 7 3-7 3-3 7-3-7-7-3 7-3Z"/><circle cx="121" cy="86" r="4"/></g>
+ </g></svg>
